@@ -2,48 +2,65 @@
 
 # 🚀 xprsnmsra's LeetCode Solutions
 
-**Auto-synced by [GitLeet](https://github.com) Chrome Extension**
+**Auto-synced by [GitLeet](https://github.com/iprsnmsra/gitleet) Chrome Extension**
 
-![Easy](https://img.shields.io/badge/Easy-?-00d084?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-?-d29922?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-?-f85149?style=for-the-badge)
-![Total](https://img.shields.io/badge/Total-?-58a6ff?style=for-the-badge)
+[![Easy](https://img.shields.io/badge/Easy-1-00d084?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/easy)
+[![Medium](https://img.shields.io/badge/Medium-0-d29922?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/medium)
+[![Hard](https://img.shields.io/badge/Hard-0-f85149?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/hard)
+[![Total](https://img.shields.io/badge/Total%20Solved-1-58a6ff?style=for-the-badge)](https://leetcode.com/xprsnmsra)
 
 </div>
+
+---
 
 ## 📊 Progress
 
 | Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | ? |
-| 🟡 Medium | ? |
-| 🔴 Hard | ? |
-| **Total** | **?** |
+|:---|:---:|
+| 🟢 **Easy** | **1** |
+| 🟡 **Medium** | **0** |
+| 🔴 **Hard** | **0** |
+| ⚡ **Total** | **1** |
+
+---
 
 ## 📁 Repository Structure
 
 ```
-📦 leetcode-solutions
-├── 📂 easy/
+📦 leetcode-solutions/
+├── 📂 easy/          🟢 Easy problems
 │   └── 📂 0001-two-sum/
-│       ├── 📄 solution.py      ← Source code
-│       └── 📄 notes.md         ← Runtime, memory & metadata
-├── 📂 medium/
+│       ├── 📄 solution.py     ← Source code
+│       └── 📄 notes.md        ← Runtime · Memory · Metadata
+├── 📂 medium/        🟡 Medium problems
 │   └── 📂 0003-longest-substring-without-repeating-characters/
 │       ├── 📄 solution.py
-│       └── 📄 solution.cpp     ← Multiple languages!
-└── 📂 hard/
+│       └── 📄 solution.cpp    ← Multiple languages supported!
+└── 📂 hard/          🔴 Hard problems
     └── 📂 0042-trapping-rain-water/
         └── 📄 solution.java
 ```
 
-## 🛠️ How It Works
+---
 
-This repository is powered by **GitLeet** — a Chrome Extension that:
-- Injects a **"Commit to GitHub"** button on every LeetCode problem page
-- Lets you **bulk-sync** your entire acceptance history in one click
-- Organizes solutions by difficulty with rich metadata
-- Supports **15+ programming languages**
+## ⚙️ How It Works
+
+This repository is auto-managed by **[GitLeet](https://github.com/iprsnmsra/gitleet)** — a Chrome Extension that:
+
+- 🔘 Injects a **"Commit to GitHub"** button directly on every LeetCode problem page
+- ⚡ Lets you **bulk-sync your entire acceptance history** with one click
+- 🗂️ Organises solutions by difficulty: `easy/` · `medium/` · `hard/`
+- 📝 Creates a `notes.md` per problem with runtime, memory & submission metadata
+- 🌐 Supports **15+ programming languages** (Python, C++, Java, JS, Go, Rust …)
+- 📊 **Auto-updates this README** with live stats after every commit
 
 ---
-<sub>Last synced: Mon, 22 Jun 2026 12:36:07 GMT</sub>
+
+<div align="center">
+
+*Last synced: **June 22, 2026 at 06:36 PM GMT+5:30***
+
+[![Profile](https://img.shields.io/badge/LeetCode-xprsnmsra-FFA116?style=flat&logo=leetcode)](https://leetcode.com/xprsnmsra)
+[![GitHub](https://img.shields.io/badge/GitHub-xprsnmsra-181717?style=flat&logo=github)](https://github.com/xprsnmsra)
+
+</div>
